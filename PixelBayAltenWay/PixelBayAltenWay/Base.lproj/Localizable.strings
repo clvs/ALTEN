@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  PixelBayAltenWay
+
+  Created by Cociu Laurentiu-Victor on 14/01/2017.
+  Copyright © 2017 ALTEN GmbH. All rights reserved.
+*/
+
+"alertUtils_ok" = "OK";
+"alertUtils_retry" = "Retry";
+"fetchImagesError_title" = "An error has occured: %ld";
+"fetchImagesError_message" = "Failed To Load Images!";
+"requestNoInternetConnectionError_title" = "Please check your internet connection";
+"requestNoInternetConnectionError_message" = "No Internet Connection!";

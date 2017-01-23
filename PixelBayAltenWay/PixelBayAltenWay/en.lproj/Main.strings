@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6Js-Ex-Q5S"; */
+"6Js-Ex-Q5S.text" = "0";
+
+/* Class = "UINavigationItem"; title = "ALTEN"; ObjectID = "M1r-Kz-oc6"; */
+"M1r-Kz-oc6.title" = "ALTEN";
+
+/* Class = "UISearchBar"; placeholder = "Search images"; ObjectID = "RaK-jz-9pf"; */
+"RaK-jz-9pf.placeholder" = "Search images";
+
+/* Class = "UISearchBar"; RaK-jz-9pf.scopeButtonTitles[0] = "Title"; ObjectID = "RaK-jz-9pf"; */
+"RaK-jz-9pf.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; RaK-jz-9pf.scopeButtonTitles[1] = "Title"; ObjectID = "RaK-jz-9pf"; */
+"RaK-jz-9pf.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eH9-Cr-hC1"; */
+"eH9-Cr-hC1.text" = "0";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "eMl-BC-1JL"; */
+"eMl-BC-1JL.text" = "UserName";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "h6v-dk-3x3"; */
+"h6v-dk-3x3.title" = "Back";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "igZ-gG-H1V"; */
+"igZ-gG-H1V.text" = "0";
+
+/* Class = "UINavigationItem"; title = "ALTEN"; ObjectID = "oBF-OQ-8tl"; */
+"oBF-OQ-8tl.title" = "ALTEN";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "vbg-ub-73R"; */
+"vbg-ub-73R.text" = "Username";
